@@ -514,7 +514,7 @@ class _PortfolioHomeState extends State<PortfolioHome>
                   child: _buildProjectCard(
                     'Flowstate',
                     'An innovative design solution',
-                    'assets/sangla.jpg',
+                    'assets/breathnheart.png',
                   ),
                 ),
               ],
